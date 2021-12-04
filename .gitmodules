@@ -1,0 +1,3 @@
+[submodule "suf"]
+	path = suf
+	url = https://github.com/brainfck/suf-wotlk
